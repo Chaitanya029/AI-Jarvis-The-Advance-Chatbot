@@ -11,6 +11,9 @@ AI Jarvis is a cutting-edge AI chatbot that brings the futuristic experience of 
 Voice and Clap Control
 Listen to your voice commands and respond accordingly Activate AI Jarvis with a simple clap, no need to press any buttons
 
+![ai-generated-8351757_640 (1)](https://github.com/user-attachments/assets/d402304f-42c5-450b-80c1-99eb6079008f)
+
+
 ### WhatsApp Integration
 Open WhatsApp and send text or files with just a voice command Send messages to your loved ones or share files with ease
 
@@ -77,7 +80,11 @@ This will initialize the Python program. If you run into any problems during the
 <ul> <li><b>Libraries</b>: <ul> <li><b>json</b> for data manipulation</li> <li><b>torch</b> for machine learning capabilities</li> <li><b>numpy</b> for numerical computations</li> <li><b>random</b> for generating random responses</li> <li><b>pyaudio</b> for audio processing</li> <li><b>struct</b> for data structuring</li> <li><b>math</b> for mathematical operations</li> <li><b>os</b> for operating system interactions</li> <li><b>keyboard</b> for keyboard control</li> <li><b>pyautogui</b> for GUI automation</li> <li><b>web-browser</b> for web interactions</li> </ul> </li> </ul>
 
 ## How it Works
+
+![ai-generated-8944584_640](https://github.com/user-attachments/assets/996e7957-02df-4866-bd79-548fd05acfc0)
+
 AI Jarvis uses Google Open-AI to process and transmit data, enabling it to understand and respond to your voice commands. The project's advanced natural language processing (NLP) capabilities allow it to comprehend complex requests and provide accurate responses.
+
 
 ## Getting Started
 To run AI Jarvis, ensure you have Python 3.8 installed on your system. Clone this repository and install the required libraries using pip install -r requirements.txt. Then, simply run the main.py file to activate AI Jarvis.
