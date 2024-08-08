@@ -75,6 +75,7 @@ This will initialize the Python program. If you run into any problems during the
 ## Technologies used
 
 <ul> <li><b>Libraries</b>: <ul> <li><b>json</b> for data manipulation</li> <li><b>torch</b> for machine learning capabilities</li> <li><b>numpy</b> for numerical computations</li> <li><b>random</b> for generating random responses</li> <li><b>pyaudio</b> for audio processing</li> <li><b>struct</b> for data structuring</li> <li><b>math</b> for mathematical operations</li> <li><b>os</b> for operating system interactions</li> <li><b>keyboard</b> for keyboard control</li> <li><b>pyautogui</b> for GUI automation</li> <li><b>web-browser</b> for web interactions</li> </ul> </li> </ul>
+
 ## How it Works
 AI Jarvis uses Google Open-AI to process and transmit data, enabling it to understand and respond to your voice commands. The project's advanced natural language processing (NLP) capabilities allow it to comprehend complex requests and provide accurate responses.
 
