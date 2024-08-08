@@ -23,7 +23,7 @@ Choose from male or female voice assistants to suit your preference Get response
 ## Setup Procedures
 For getting JARVIS up and running, the instructions are given below :
 
-![2106 i201 007 F m004 c9 call center technical support isometric](https://github.com/user-attachments/assets/dedd854d-aa11-4948-9ba2-9e2b3edd240f)
+![2106 i201 007 F m004 c9 call center technical support isometric](https://github.com/user-attachments/assets/63ee6a5f-ab32-4d47-8993-68fde29ff18f)
 
 ### Environment setup
 <ul>
