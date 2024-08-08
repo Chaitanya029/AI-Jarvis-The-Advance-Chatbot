@@ -1,0 +1,15 @@
+
+Question : tell my first question 
+Answer : What is your favorite color?
+Question : what is sbi 
+Answer : SBI is the State Bank of India, the largest bank in India.
+Question : Hey, ask any question, if you know even a little photo, then tell me 
+Answer : What is your favorite color?
+Question : what is the time 
+Answer : It is currently 12.46 PM.
+Question : what is india 
+Answer : India is a country in South Asia.
+Question : what is the day today 
+Answer : Today is Wednesday.
+Question : what is day today 
+Answer : Today is Wednesday.
